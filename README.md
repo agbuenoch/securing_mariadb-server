@@ -17,6 +17,8 @@ The MariaDB server has been started and is enabled.
 You know how to view and load databases in the MariaDB server.
 If not, refer to this article How to set up Chinook Database on MariaDB on how to start, stop, enable and disable the MariaDB server.
 
+---
+
 ## Step 1: Setup and Import Chinook Database.
 Read the article (How to set up Chinook Database on MariaDB)[https://www.linkedin.com/pulse/how-set-up-chinook-database-mariadb-server-using-linux-enoch-agbu-8cgff/) to implement the Step 1, where you will Install MariaDB, Download and Import Chinook DB.
 
