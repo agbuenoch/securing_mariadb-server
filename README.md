@@ -408,7 +408,7 @@ Auditing user actions is vital for Accountability, Threat hunting, Forensics aft
 By the end of this project, you will have enabled logging and monitoring, practised log forensics and system auditing.
 
 ## LinkedIn Article.
-- [Securing MariaDB Server]()
+- [Securing MariaDB Server](https://www.linkedin.com/pulse/securing-mariadb-server-enoch-agbu-prslf)
 
 ## Connect with me.
 [🔗 LinkedIn](https://www.linkedin.com/in/agbuenoch)<br>
